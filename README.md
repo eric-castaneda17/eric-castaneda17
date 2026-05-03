@@ -17,8 +17,3 @@ CODE_ORGANIZATION: code-corhuila
 - **Email:** [emcastaneda-2024b@corhuila.edu.co](mailto:emcastaneda-2024b@corhuila.edu.co)
 - **Organización institucional:** [code-corhuila](https://github.com/code-corhuila)
 
----
-
-## Repositorio institucional
-
-Este repositorio está asociado a la organización **code-corhuila**.
